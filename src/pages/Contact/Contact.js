@@ -92,6 +92,7 @@ const Contact = () => {
 
       <div className="mt-5 mb-10 p-5 lg:mx-8">
         <iframe
+          title="uniqueTitle"
           style={{ width: "100%", height: "450px" }}
           scrolling="no"
           marginheight="0"
