@@ -84,6 +84,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Thanks go to these wonderful people!
 
-<a href="https://github.com/juhayerayaz/Wfh-clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tanvirMahtab077/Wfh-clone" />
+<a href="https://github.com/juhayerayaz/Wfh-clone/pulse">
+  <img src="https://contrib.rocks/image?repo=/juhayerayaz/Wfh-clone/" />
 </a>
